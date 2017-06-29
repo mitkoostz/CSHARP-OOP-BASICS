@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\bin\Debug\OpinionPoll.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\bin\Debug\OpinionPoll.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\bin\Debug\OpinionPoll.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\obj\Debug\OpinionPoll.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\obj\Debug\OpinionPoll.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Defining classes\OpinionPoll\OpinionPoll\obj\Debug\OpinionPoll.pdb

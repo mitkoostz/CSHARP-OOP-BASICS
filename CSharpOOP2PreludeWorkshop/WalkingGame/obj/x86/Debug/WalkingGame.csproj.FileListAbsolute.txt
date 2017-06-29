@@ -1,0 +1,29 @@
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.exe
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.pdb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.csprojResolveAssemblyReference.cache
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.exe
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.pdb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.xnb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.png
+C:\Users\Maika\Desktop\SuperSecretWorkhopFolder\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.exe
+C:\Users\Maika\Desktop\SuperSecretWorkhopFolder\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.pdb

@@ -1,0 +1,9 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\bin\Debug\MyCalories.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\bin\Debug\MyCalories.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\bin\Debug\MyCalories.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.Form1.resources
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.Properties.Resources.resources
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.csproj.GenerateResource.Cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP BASICS\Methods\MyCalories\MyCalories\obj\Debug\MyCalories.pdb
