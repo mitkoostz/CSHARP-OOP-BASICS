@@ -39,6 +39,8 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.totalCalories = new System.Windows.Forms.Label();
+            this.numberCalories = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -58,14 +60,14 @@
             this.ateFoods.ItemHeight = 18;
             this.ateFoods.Location = new System.Drawing.Point(32, 100);
             this.ateFoods.Name = "ateFoods";
-            this.ateFoods.Size = new System.Drawing.Size(580, 274);
+            this.ateFoods.Size = new System.Drawing.Size(580, 238);
             this.ateFoods.TabIndex = 1;
             this.ateFoods.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // removeFood
             // 
             this.removeFood.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.removeFood.Location = new System.Drawing.Point(234, 394);
+            this.removeFood.Location = new System.Drawing.Point(505, 344);
             this.removeFood.Name = "removeFood";
             this.removeFood.Size = new System.Drawing.Size(107, 33);
             this.removeFood.TabIndex = 2;
@@ -131,7 +133,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(31, 20);
             this.textBox2.TabIndex = 8;
-            this.textBox2.Text = "544";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label3
             // 
@@ -153,11 +155,32 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "(in grams)";
             // 
+            // totalCalories
+            // 
+            this.totalCalories.AutoSize = true;
+            this.totalCalories.Font = new System.Drawing.Font("Swis721 Blk BT", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.totalCalories.Location = new System.Drawing.Point(12, 347);
+            this.totalCalories.Name = "totalCalories";
+            this.totalCalories.Size = new System.Drawing.Size(166, 22);
+            this.totalCalories.TabIndex = 11;
+            this.totalCalories.Text = "Total calories :";
+            // 
+            // numberCalories
+            // 
+            this.numberCalories.AutoSize = true;
+            this.numberCalories.Font = new System.Drawing.Font("Sylfaen", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numberCalories.Location = new System.Drawing.Point(174, 347);
+            this.numberCalories.Name = "numberCalories";
+            this.numberCalories.Size = new System.Drawing.Size(0, 27);
+            this.numberCalories.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(883, 459);
+            this.Controls.Add(this.numberCalories);
+            this.Controls.Add(this.totalCalories);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
@@ -192,6 +215,8 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label totalCalories;
+        private System.Windows.Forms.Label numberCalories;
     }
 }
 

@@ -52,6 +52,7 @@ namespace MyCalories
             if (ateFoods.SelectedIndex >= 0)
             {
                 ateFoods.Items.RemoveAt(ateFoods.SelectedIndex);
+                
             }
             else
                 MessageBox.Show("Please select any food");
@@ -59,7 +60,13 @@ namespace MyCalories
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
+            var food = textBox1.Text.ToLower();
+            Dictionary<string, Food> results = loadFoods.foods.Where(x => x.Key.ToLower().Contains(food)).ToDictionary(y => y.Key, y => y.Value);
+
+            foreach (var kvp in results)
+            {
+                foodForAdd.Items.Add(kvp.Value.foodName);
+            }
         }
 
         private void textBox1_MouseClick(object sender, MouseEventArgs e)
@@ -100,19 +107,31 @@ namespace MyCalories
             var fdProtein = loadFoods.foods[food].proteinPer1G * int.Parse(textBox2.Text);
             var fdCarbs = loadFoods.foods[food].carbohydratesPer1g * int.Parse(textBox2.Text);
 
+            var currentCalories = 0.0;
 
+            if (numberCalories.Text.Length > 0)
+            {
+                currentCalories = double.Parse(numberCalories.Text);
+            }
 
-            if (foodForAdd.SelectedItem != null)
+            if (foodForAdd.SelectedItem != null && textBox2.Text.Length > 0)
             {
                 ateFoods.Items.Add(foodForAdd.SelectedItem + " - " + textBox2.Text +"g" + $"  ({fdCalories} calories / {fdFats} fats / {fdProtein} protein / {fdCarbs} carbs)");
+                currentCalories += fdCalories;
+                numberCalories.Text = currentCalories.ToString();
 
-
+                
             }
             else
                 MessageBox.Show("Nothing selected");
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }
